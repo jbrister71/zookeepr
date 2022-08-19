@@ -100,7 +100,6 @@
         "hungry"
       ]
     },
-    null,
     {
       "name": "Larry",
       "species": "lemur",
@@ -109,6 +108,17 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Johnson",
+      "species": "Orangutan",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
